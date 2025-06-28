@@ -46,4 +46,4 @@ After calculating travel costs for all scenarios using **Dijkstra's algorithm**,
 ### Compilation
 
 ```bash
-g++ main.cpp graph.cpp passenger.cpp -o carpooling
+g++ main.cpp -o carpooling
