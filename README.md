@@ -40,7 +40,6 @@ After calculating travel costs for all scenarios using **Dijkstra's algorithm**,
 
 ### Requirements
 
-- C++17 or higher
 - Standard C++ compiler (`g++`, `clang++`, etc.)
 
 ### Compilation
